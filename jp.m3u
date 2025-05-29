@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="お知らせ" tvg-logo="https://i.imgur.com/dpVBFYs.png",※willfonk.comのサーバーから配信されている地上波は東京のNHKと在京キー局のみです。TOKYO MX、TVK/テレ玉などの県域独立局、関西など東京以外の地上波は一切配信していません！こちらの配信ソースは視聴側が動画プレイヤーのバッファ設定で秒数をしっかり調整しないと動画が数秒おきにフリーズする現象が発生する可能性があります。
 
