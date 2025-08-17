@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
 
 #EXTINF:-1 group-title="Information" tvg-logo="",楽天運営の「Rチャンネル」は、"日本国内向け"の配信プラットフォームです。配信運営側のジオブロック（視聴可能地域制限）により、日本国内でのみ視聴が可能です。
-https://information for viewers.m3u8
+https://informationforviewers.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",Rakuten's “R Channel” is a streaming platform for Japan.Due to geo-blocking (streaming region restrictions) by the streaming operator, it can only be viewed within Japan.
-https://information for viewers.m3u8
+https://informationforviewers.m3u8
 
 #EXTINF:-1 tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="RAKUTEN",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
@@ -100,6 +100,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 
 #EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
 
 
 
